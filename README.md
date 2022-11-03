@@ -1,4 +1,7 @@
-## Olá sou o Cassio Estevao, criador de conteúdo de programação e tecnologia!
+## Olá sou o Cassio Estevao, sou estudante de Analise e Desenvolvimento de Sistemas!
+- 📚 Universidade Norte do Paraná.
+- 👤 23 anos.
+
 <div align="center">
   <a href="https://github.com/cassioestevao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cassioestevao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
