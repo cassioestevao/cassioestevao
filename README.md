@@ -1,5 +1,7 @@
 ## Olá sou o Cassio Estevao, criador de conteúdo de programação e tecnologia!
-<div align="center">
+📚 Estudante de Analise e Desenvolvimento  de Sistemas(Unopar) 
+
+< div  align = "centro" >
   <a href="https://github.com/cassioestevao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cassioestevao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassioestevao&layout=compact&langs_count=16&theme=dark"/>
