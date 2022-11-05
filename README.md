@@ -1,6 +1,5 @@
-## *Olá sou o Cassio Estevao, estudante de Analise e Desenvolvimento de Sistemas!*
-- 📚 Universidade Norte do Paraná.
-- 👤 23 anos.
+## *Olá sou o Cássio Estevão, estudante de Analise e Desenvolvimento de Sistemas!*
+
 
 <div align="center">
   <a href="https://github.com/cassioestevao">
