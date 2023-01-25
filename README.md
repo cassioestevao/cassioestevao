@@ -25,7 +25,7 @@
 
 <div align="center" valign="top"><br>
  
- <img align="center" alt="cassioestevao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="cassioestevao-Python" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C/C++" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
 </div><br>
 
