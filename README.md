@@ -6,12 +6,12 @@
   </h1>
   
   <p align="center">
-    Sou estudante de Analise e Desenvolvimento de Sistemas na Unopar.
+    Atualmente estou cursando superior em Análise e Desenvolvimento de Sistemas!
     
   </p>
   
   <p align="center">
-    Seja muito bem vindo (a) ao meu perfil! Aqui está algumas ideias e projetos que estou desenvolvendo. 
+    Seja muito bem vindo(a) ao meu perfil! Aqui está algumas ideias e projetos que estou desenvolvendo. 
   </p>
   
 </div>
