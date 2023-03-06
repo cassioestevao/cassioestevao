@@ -6,14 +6,9 @@
   </h1>
   
   <p align="center">
-    Atualmente estou cursando superior em Análise e Desenvolvimento de Sistemas!
-    
+I'm currently studying higher in Systems Analysis and Development!
+Welcome to my profile! Here are some ideas and projects I'm working on.    
   </p>
-  
-  <p align="center">
-    Seja muito bem vindo(a) ao meu perfil! Aqui está algumas ideias e projetos que estou desenvolvendo. 
-  </p>
-  
 </div>
 
 <div align="center">
