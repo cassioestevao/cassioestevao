@@ -7,6 +7,8 @@
   
   <p align="center">
 I'm currently studying higher in Systems Analysis and Development!
+  </p>
+  <p align="center">
 Welcome to my profile! Here are some ideas and projects I'm working on.    
   </p>
 </div>
@@ -31,8 +33,5 @@ Welcome to my profile! Here are some ideas and projects I'm working on.
 </div>
 <p align="center">
   <a href="https://wa.me/+5501527998062898"> Contato WhatsApp <a/>
-<div align="center">
-
-  
-</div>
+    </p>
 
