@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, Mundo! Eu sou o Cássio Estevão</h1>
+  <h1>Olá, eu sou Cássio Estevão</h1>
   <p>🚀 Desenvolvedor Python | 👨‍💻 Entusiasta de Tecnologia</p>
 </div>
 
