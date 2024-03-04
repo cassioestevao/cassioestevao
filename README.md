@@ -1,15 +1,15 @@
 <div>
   
   <h1 align="center">
-    Hi, Welcome! My name is 
+    Olá, bem vindo(a)! Me chamo  
     <a href="https://www.linkedin.com/in/cassioestevao/">Cássio Estevão </a>
   </h1>
   
   <p align="center">
-I'm currently studying higher in Systems Analysis and Development!
+Atualmente sou desenvolvedor na linguagem Python
   </p>
   <p align="center">
-Welcome to my profile! Here are some ideas and projects I'm working on.    
+Aqui você pode ver alguns dos meus projetos e trabalhos realizados..    
   </p>
 </div>
 
