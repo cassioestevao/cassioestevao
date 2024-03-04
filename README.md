@@ -1,7 +1,8 @@
 <div align="center">
   <h1>Olá, eu sou Cássio Estevão</h1>
+  </div>
   <p>🚀 Desenvolvedor Python | 👨‍💻 Entusiasta de Tecnologia</p>
-</div>
+
 ---
 
 <div align="center">
