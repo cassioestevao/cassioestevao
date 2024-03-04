@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <h3>🛠️ Linguagens e Ferramentas</h3>
+  <h3>|Linguagens e Ferramentas|</h3>
   <p>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   </p>
@@ -15,14 +15,14 @@
 ---
 
 <div align="center">
-  <h3>📚 Projetos e Trabalhos</h3>
+  <h3>|Projetos e Trabalhos|</h3>
   <p>Aqui você pode ver alguns dos meus projetos e trabalhos realizados.</p>
 </div>
 
 ---
 
 <div align="center">
-  <h3>📫 Contato</h3>
+  <h3>|Contato|</h3>
   <p align="center">
     <a href="https://instagram.com/cassioestevao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
     <a href="mailto:cassioestevaops@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
