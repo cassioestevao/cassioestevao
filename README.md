@@ -1,11 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou Cássio Estevão</h1>
   <p>🚀 Desenvolvedor Python | 👨‍💻 Entusiasta de Tecnologia</p>
-  </div>
-
-</div>
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="100">
 </div>
 ---
 
