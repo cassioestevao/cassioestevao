@@ -20,8 +20,6 @@
   <p>Aqui você pode conferir alguns dos meus projetos e experiências profissionais.
 </p>
 </div>
-
----
 <div align="center">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassioestevao&theme=dark&hide_border=false&&layout=compact"/>
   </a>
