@@ -27,7 +27,6 @@
 
 <div align="center" valign="top"><br>
 ---
-
 <div align="center">
   <h3>📫 Contato</h3>
   <p align="center">
