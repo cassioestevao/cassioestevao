@@ -1,12 +1,12 @@
 <div align="center">
   <h1>Olá, bem-vindo(a)! Me chamo Cássio Estevão</h1>
-  <p>Desenvolvedor Python</p>
+  <p>|Desenvolvedor Python|</p>
 </div>
 
 ---
 
 <div align="center">
-  <h2>Projetos e Trabalhos</h2>
+  <h2>|Projetos e Trabalhos|</h2>
   <p>Aqui você pode ver alguns dos meus projetos e trabalhos realizados.</p>
 </div>
 
