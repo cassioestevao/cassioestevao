@@ -22,6 +22,13 @@
 </div>
 
 ---
+<div align="center">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassioestevao&theme=dark&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
+<div align="center" valign="top"><br>
+---
 
 <div align="center">
   <h3>📫 Contato</h3>
