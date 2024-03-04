@@ -31,7 +31,7 @@
   
 ---
 <div align="center">
-  <h3>📫 Contato</h3>
+  <h3>|Contato|</h3>
   <p align="center">
     <a href="https://instagram.com/cassioestevao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
     <a href="mailto:cassioestevaops@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
