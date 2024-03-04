@@ -32,6 +32,6 @@ Aqui você pode ver alguns dos meus projetos e trabalhos realizados.
   <a href="https://www.linkedin.com/in/cassioestevao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <p align="center">
-  <a href="https://wa.me/+5501527998062898"> Contato WhatsApp <a/>
+  <a href="https://wa.me/+5501527998062898"> Contato WhatsApp <a/><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" </a>
     </p>
 
