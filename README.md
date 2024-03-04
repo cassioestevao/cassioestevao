@@ -6,10 +6,10 @@
   </h1>
   
   <p align="center">
-Atualmente sou desenvolvedor na linguagem Python
+Atualmente sou desenvolvedor na linguagem Python!
   </p>
   <p align="center">
-Aqui você pode ver alguns dos meus projetos e trabalhos realizados..    
+Aqui você pode ver alguns dos meus projetos e trabalhos realizados.  
   </p>
 </div>
 
