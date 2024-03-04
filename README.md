@@ -16,7 +16,8 @@
 
 <div align="center">
   <h3>|Projetos e Trabalhos|</h3>
-  <p>Aqui você pode ver alguns dos meus projetos e trabalhos realizados.</p>
+  <p>Aqui você pode conferir alguns dos meus projetos e experiências profissionais.
+</p>
 </div>
 
 ---
