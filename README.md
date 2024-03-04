@@ -21,9 +21,9 @@
 </p>
 </div>
 <div align="center">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassioestevao&theme=dark&hide_border=false&&layout=compact"/>
-  </a>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassioestevao&theme=dark&hide_border=false&langs_count=5&layout=compact&locale=pt-br"/>
 </div>
+
 
 <div align="center" valign="top"><br>
 <p></p>
