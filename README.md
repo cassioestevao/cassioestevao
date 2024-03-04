@@ -7,6 +7,7 @@
 
 <div align="center">
   <h3>|Linguagens e Ferramentas|</h3>
+  <p> Sou um programador focado em desenvolvimento backend, utilizando principalmente Python. Tenho paixão por criar sistemas robustos e escaláveis, e busco constantemente aprender e aplicar as melhores práticas de programação. Estou sempre em busca de desafios que me permitam aprimorar minhas habilidades e contribuir para o crescimento de projetos inovadores </p>
   <p>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   </p>
