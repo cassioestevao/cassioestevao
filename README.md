@@ -16,9 +16,9 @@
     <img align="center" height="30" width="300" alt="python-icon"               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
    </div>
-    
-  
-  <h1 align="center">Redes Sociais</h1>
+  <p>
+  </p>
+  <h1 align="center" >Redes Sociais</h1>
     <a href = "mailto: cassioestevaops@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
@@ -30,4 +30,4 @@
     </a>
 </div>
   
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/cassioestevao/cassioestevao/blob/output/github-contribution-grid-snake.svg)
