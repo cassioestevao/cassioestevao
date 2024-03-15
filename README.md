@@ -1,7 +1,7 @@
 ## Olá, meu nome é Cássio!
 
 <div>  
-  <img align="center" height="390em" src="https://github-readme-stats.vercel.app/api?username=cassioestevao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="center" height="340em" src="https://github-readme-stats.vercel.app/api?username=cassioestevao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="center" height="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassioestevao&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
