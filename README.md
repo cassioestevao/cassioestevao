@@ -1,8 +1,8 @@
 ## Olá, meu nome é Cássio!
 
 <div>  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=cassioestevao&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassioestevao&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=cassioestevao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassioestevao&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
 
@@ -10,6 +10,8 @@
   <div style="display: inline_block"><br>
     <img align="left" height="180" alt="coding-time" src="code.gif">
        </div>
+  <p>
+  </p>
   <div
 <h1 align="center">Tecnologias</h1>
     <img align="center" height="30" width="40" alt="python-icon"               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
