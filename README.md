@@ -1,33 +1,35 @@
-## Olá, meu nome é Cássio!
+<?php
 
-<div>  
-  <img align="center" height="340em" src="https://github-readme-stats.vercel.app/api?username=cassioestevao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="center" height="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassioestevao&layout=compact&langs_count=16&theme=dark"/>
-</div>
-<br>
+namespace AshBaker;
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="center" height="300" alt="coding-time" src="code.gif">
-       </div>
-  <p>
-  </p>
-<h1 align="center">Tecnologias </h1>
-    <img align="center" height="30" width="300" alt="python-icon"               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'Qquicker',
+                'position' => 'Founder'         
+            ]
+        ];
+    }
 
-   </div>
-  <p>
-  </p>
-  <h1 align="center" >Redes Sociais</h1>
-    <a href = "mailto: cassioestevaops@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/cassioestevao">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.instagram.com/cassioestevao">
-      <img width="25" src="instagram.png">
-    </a>
-</div>
-  
-![Snake animation](https://github.com/cassioestevao/cassioestevao/blob/output/github-contribution-grid-snake.svg)
+    public function getDailyKnowledge(): array
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Laravel::class,
+            Vuejs::class,
+            Angular::class,
+            ReactNative::class,
+            TailwindCss::class,
+            Aws::class,
+        ];
+    }
+
+    public function getFutureGoal(): string
+    {
+        return 'To contribute to open source.';
+    }
+}
