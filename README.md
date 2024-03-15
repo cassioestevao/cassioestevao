@@ -8,7 +8,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <img align="left" height="180" alt="coding-time" src="code.gif">
     
 <h1 align="center">Tecnologias</h1>
     <img align="center" height="30" width="40" alt="python-icon"               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
