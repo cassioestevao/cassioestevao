@@ -75,7 +75,7 @@
 
 <p align="centre"><b>Visitors Count</b></p> 
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=&s=40&c=dba100&bg=00000000&no=2&ff=digii&tb=&ta=" alt="visits"> /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=&s=40&c=dba100&bg=00000000&no=2&ff=digii&tb=&ta=" alt="visits" </p> 
 <br>
 </div>
 
