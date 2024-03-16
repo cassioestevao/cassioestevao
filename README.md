@@ -89,7 +89,8 @@
 <br> 
 
 
-![code](https://raw.githubusercontent.com/cassioestevao/cassioestevao/main/code.gif)
+<img src="https://raw.githubusercontent.com/cassioestevao/cassioestevao/main/code.gif" alt="coding" width="400" height="300">
+
 
 
 
