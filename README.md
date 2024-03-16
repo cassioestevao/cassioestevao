@@ -70,8 +70,6 @@
   
 <br>
 <br>
-<br>
-<br>
 
 <p align="centre"><b>Visitors Count</b></p> 
   
@@ -91,7 +89,7 @@
 <br> 
 
 
-<img width=100% src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/dfadbae0-104e-4deb-9719-1ed3c82542c5"/>
+<img width=100% src="[https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/dfadbae0-104e-4deb-9719-1ed3c82542c5](https://github.com/cassioestevao/cassioestevao/blob/33ef3fb47e73eae7add5494ca00f9f731cd70dbb/code.gif)https://github.com/cassioestevao/cassioestevao/blob/33ef3fb47e73eae7add5494ca00f9f731cd70dbb/code.gif"/>
 
 
 
