@@ -1,6 +1,4 @@
 
-<br>
-<br> 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=31&pause=1000&color=F7E407&random=false&width=435&lines=Bem+vindos+(a)!+;Nascido+em+1998%2C+Ouro+Branco%2C+Minas+Gerais.)](https://git.io/typing-svg)
 
 <br>
