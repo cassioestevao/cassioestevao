@@ -89,7 +89,8 @@
 <br> 
 
 
-<img width=100% src="(https://github.com/cassioestevao/cassioestevao/blob/33ef3fb47e73eae7add5494ca00f9f731cd70dbb/code.gif)/>
+![code](https://raw.githubusercontent.com/cassioestevao/cassioestevao/main/code.gif)
+
 
 
 
