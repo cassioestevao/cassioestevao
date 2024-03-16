@@ -89,7 +89,7 @@
 <br> 
 
 
-<img aligb= "center" src="https://raw.githubusercontent.com/cassioestevao/cassioestevao/main/code.gif" alt="coding" width="400" height="300">
+<img align= "center" src="https://raw.githubusercontent.com/cassioestevao/cassioestevao/main/code.gif" alt="coding" width="400" height="300">
 
 
 
