@@ -89,10 +89,9 @@
 <br> 
 
 
-<img align= "center" src="https://raw.githubusercontent.com/cassioestevao/cassioestevao/main/code.gif" alt="coding" width="400" height="300">
-
-
-
+<div style="text-align:center;">
+    <img src="https://raw.githubusercontent.com/cassioestevao/cassioestevao/main/code.gif"  alt="Alt Text" width="400" height="300">
+</div>
 
 
 
