@@ -60,7 +60,7 @@ Em resumo, minha paixão pelo desenvolvimento web está enraizada na vontade de 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](linkedin.com/in/cassioestevao)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:cassioestevaops@gmail.com)
 <br>
-<p align="center" style="color: gold;">
+<p align="center" style="color: gold; background-color: transparent;">
   <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcassioestevao&s=15&c=db006a&bg=F7F7F7&no=7&ff=digi&tb=Visitas%3A++&ta=">
 </p>
 <br>
