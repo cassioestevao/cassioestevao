@@ -49,21 +49,21 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 
 <a href="https://instagram.com/cassioestevao" target="_blank">
 
-<img align="center" height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png">
+<img align="center" height="80" width="80" src="https://image.flaticon.com/icons/png/512/1384/1384063.png">
 
 </a>
 
 <a href="https://www.youtube.com/channel/cassioestevao" target="_blank">
 
-<img align="center" height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg">
+<img align="center" height="80" width="80" src="https://image.flaticon.com/icons/png/512/1384/1384060.png">
 
 </a>
 <a href="mailto:cassioestevaops@gmail.com">
-<img align="center"  height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.png">
+<img align="center"  height="80" width="80" src="https://image.flaticon.com/icons/png/512/732/732200.png">
 </a>
 
 <a  href="https://www.linkedin.com/in/cassioestevao/" target=_blank>
-<img align="center"  height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
+<img align="center"  height="80" width="80" src="https://image.flaticon.com/icons/png/512/174/174857.png">
 </a>
 </div>
 
