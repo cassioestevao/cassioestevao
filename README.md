@@ -37,12 +37,6 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 <br> 
 <br> 
 <br> 
-O mundo do desenvolvimento web me fascina pela sua capacidade de criar experiências inovadoras e impactantes. A web é uma plataforma dinâmica e acessível, capaz de conectar pessoas e ideias de forma única.
-
-A possibilidade de aprender novas tecnologias e frameworks constantemente me motiva. O desenvolvimento web é um campo em constante evolução, oferecendo desafios estimulantes e oportunidades de crescimento pessoal e profissional.
-
-Além disso, a criação de interfaces intuitivas e visualmente atraentes é um aspecto que me cativa. Combinar design e funcionalidade para proporcionar uma experiência de usuário excepcional é um desafio gratificante.
-
 Em resumo, minha paixão pelo desenvolvimento web está enraizada na vontade de criar soluções inovadoras, na busca constante por aprendizado e na busca da excelência na experiência do usuário. Estou animado para explorar todo o potencial criativo e técnico que o desenvolvimento web tem a oferecer.<br>
 <br>
 <br>
