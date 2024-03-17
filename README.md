@@ -30,9 +30,9 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 <h2 align="left"> Interesses: </h2>
 <br>
 <div style="display: flex; justify-content: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Logo" width="100">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="100">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Logo" width="100"><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Logo" width="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Logo" width="50"><br>
 </div>
 
 <br> 
@@ -48,19 +48,11 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 
 <div align="center"> 
 
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](LINK_DO_SEU_PERFIL_DO_INSTAGRAM)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](instagram.com/cassioestevao)
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](LINK_DO_SEU_NUMERO_NO_WHATSAPP)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](LINK_DO_SEU_PERFIL_DO_LINKEDIN)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:SEU_EMAIL@gmail.com)
-
-
-
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](linkedin.com/in/cassioestevao)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:cassioestevaops@gmail.com)
 <br>
-   <br>
-<br>
-<br>
-
-
 <p align="center" style="color: gold;">
   <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcassioestevao&s=15&c=db006a&bg=428fd6&no=7&ff=digi&tb=Visitas%3A++&ta=">
 </p>
