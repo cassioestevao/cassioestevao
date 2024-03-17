@@ -50,11 +50,11 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 
 <a href="https://instagram.com/cassioestevao" target="_blank">
 
-<img align="center" height="50" width="50" src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png">
+<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.2/icons/instagram.svg">
 
 </a>
 
-<a href="https://www.facebook.com/cassioestevao" target="_blank" rel="noopener noreferrer">>
+<a href="https://www.facebook.com/cassioestevao" target="_blank">
 
 <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.2/icons/facebook.svg">
 
@@ -64,7 +64,7 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 </a>
 
 <a  href="https://www.linkedin.com/in/cassioestevao/" target="_blank">
-<img align="center"  height="50" width="50" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png">
+<img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.2/icons/linkedin.svg">
 </a>
 
 <br>
