@@ -1,11 +1,10 @@
-@@ -1,15 +1,24 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=Bem+vindos+(a)!+;Aqui+est%C3%A3o+alguns+dos+meus+projetos+e+estudos+desenvolvidos+em+diversas+linguagens.)](https://git.io/typing-svg)
 
 <br>
 <br>
 
 <div align="center">
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cassioestevao&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cassioestevao&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 </div>
 
 <div align="center"> 
