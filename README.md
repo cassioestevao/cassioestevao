@@ -64,17 +64,14 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 </a>
 
 <a  href="https://www.linkedin.com/in/cassioestevao/" target="_blank">
-<img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.2/icons/linkedin.svg">
+<iframe src="https://giphy.com/embed/llarwdtFqG63IlqUR1" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GDevs-android-developer-summit-llarwdtFqG63IlqUR1">via GIPHY</a></p>>
 </a>
 
 <br>
    <br>
 <br>
 <br>
-<div style="width:100;height:0;padding-bottom:98;position:relative;">
-   <iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
-   
-</div>
+
 
 <p align="center" style="color: gold;">
   <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcassioestevao&s=15&c=db006a&bg=428fd6&no=7&ff=digi&tb=Visitas%3A++&ta=">
