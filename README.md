@@ -64,7 +64,7 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 </div>
 
 <div style="text-align⬅️">
-  <img src="https://raw.githubusercontent.com/cassioestevao/cassioestevao/main/code.gif"  alt="Alt Text" width="400" height="300">
+  <img src="https://raw.githubusercontent.com/cassioestevao/cassioestevao/main/code.gif"  alt="Alt Text" width="600" height="500">
 </div>
 
 <br>
