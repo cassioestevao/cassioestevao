@@ -48,24 +48,12 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 
 <div align="center"> 
 
-<a href="https://instagram.com/cassioestevao" target="_blank">
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](LINK_DO_SEU_PERFIL_DO_INSTAGRAM)
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](LINK_DO_SEU_NUMERO_NO_WHATSAPP)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](LINK_DO_SEU_PERFIL_DO_LINKEDIN)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:SEU_EMAIL@gmail.com)
 
-<img align="center" height="50" width="50" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 
-</a>
-
-<a href="https://www.facebook.com/cassioestevao" target="_blank">
-
-<img align="center" height="50" width="50" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-
-</a>
-<a href="mailto:cassioestevaops@gmail.com">
-<img align="center"  height="50" width="50" src="https://giphy.com/embed/du3J3cXyzhj75IOgvA">
-</a>
-
-<a  href="https://www.linkedin.com/in/cassioestevao/" target="_blank">
-<iframe src="https://giphy.com/embed/llarwdtFqG63IlqUR1" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GDevs-android-developer-summit-llarwdtFqG63IlqUR1">via GIPHY</a></p>>
-</a>
 
 <br>
    <br>
