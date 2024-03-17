@@ -55,15 +55,15 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 
 <a href="https://www.youtube.com/channel/cassioestevao" target="_blank">
 
-<img align="center" height="80" width="80" src="https://image.flaticon.com/icons/png/512/1384/1384060.png">
+<img align="center" height="80" width="80" src="https://img.icons8.com/ios-filled/50/000000/youtube.png">
 
 </a>
 <a href="mailto:cassioestevaops@gmail.com">
-<img align="center"  height="80" width="80" src="https://image.flaticon.com/icons/png/512/732/732200.png">
+<img align="center"  height="80" width="80" src="https://img.icons8.com/ios-filled/50/000000/gmail.png">
 </a>
 
 <a  href="https://www.linkedin.com/in/cassioestevao/" target=_blank>
-<img align="center"  height="80" width="80" src="https://image.flaticon.com/icons/png/512/174/174857.png">
+<img align="center"  height="80" width="80" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png">
 </a>
 </div>
 
