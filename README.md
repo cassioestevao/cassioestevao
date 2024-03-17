@@ -69,6 +69,11 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 
 <br>
    <br>
+<br>
+<br>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/seu-usuario-do-facebook)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-usuario-do-instagram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-do-linkedin)
    
    
 </div>
