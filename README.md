@@ -27,7 +27,7 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 <br>
 <br>
 <br> 
-<h2 align="center"> Interesses: </h2>
+<h2 align="right"> Interesses: </h2>
 <br>
 <div style="display: flex; justify-content: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Logo" width="100">
@@ -39,7 +39,7 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 <br>
 
 <h3 align="center"><b>Visitas ao perfil</b></h3> 
-  
+<br>
 <p align="center" style="color: gold;">
   <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcassioestevao&s=50&c=bdbd04&bg=000000&no=7&ff=digi&tb=Visits%3A++&ta=">
 </p>
