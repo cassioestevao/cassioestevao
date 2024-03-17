@@ -11,7 +11,7 @@
 
 <a href="https://instagram.com/cassioestevao" target="_blank">
 
-<img align="center" height="80" width="84" src=https://github.com/cassioestevao/cassioestevao/blob/e9792e9330296e2c055931f8b5f7a5c34e27709e/instagram.png>
+<img align="center" height="80" width="80" src=https://github.com/cassioestevao/cassioestevao/blob/e9792e9330296e2c055931f8b5f7a5c34e27709e/instagram.png>
 
 </a>
 
@@ -23,15 +23,20 @@
 <a href="mailto:cassioestevaops@gmail.com">
 <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
 </a>
+
 <a  href="https://www.linkedin.com/in/cassioestevao/" target=_blank>
 <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
 </a>
 </div>
+
 <div align="center" >
- ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/cassioestevao?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=dark) 
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/cassioestevao?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=dark) 
 </div>
+
+
 ### Ferramenta:
 ![Python](https://www.python.org/static/img/python-logo.png)
+
 <br>
 Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minha linguagem principal. Sou apaixonado por programação e estou sempre buscando aprender e aprimorar minhas habilidades. Este repositório é onde compartilho meus projetos e estudos relacionados ao Python e outras tecnologias.</a>
 <br>
