@@ -1,3 +1,4 @@
+@@ -1,15 +1,24 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=Bem+vindos+(a)!+;Aqui+est%C3%A3o+alguns+dos+meus+projetos+e+estudos+desenvolvidos+em+diversas+linguagens.)](https://git.io/typing-svg)
 
 <br>
@@ -8,15 +9,15 @@
 </div>
 
 <div align="center"> 
- 
+
 <a href="https://instagram.com/cassioestevao" target="_blank">
- 
+
 <img align="center" height="80" width="84" src=https://github.com/cassioestevao/cassioestevao/blob/e9792e9330296e2c055931f8b5f7a5c34e27709e/instagram.png>
 
 </a>
 
 <a href="https://www.youtube.com/channel/cassioestevao" target="_blank">
- 
+
 <img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3000a2c-f43c-4145-9f8d-3c5b58a5dae0">
 
 </a>
@@ -42,20 +43,3 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 <br> 
 <h2 align="left"> Interesses: </h2>
 <br> 
-<p align="right">
-  <img height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
-  <img height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
-  <img height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
-  <img height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
-</div>
-<br>
-<br>
-<div style="text-align⬅️">
-  <img src="https://raw.githubusercontent.com/cassioestevao/cassioestevao/main/code.gif"  alt="Alt Text" width="600" height="500">
-</div>
-<br>
-<div align="center">
-<p align="center"</p><b> Visitas ao meu perfil</b>
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=&s=40&c=dba100&bg=00000000&no=2&ff=digii&tb=&ta=" alt="visits" 
-<br>
-</div>
