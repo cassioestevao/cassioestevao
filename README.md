@@ -59,13 +59,16 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 <a  href="https://www.linkedin.com/in/cassioestevao/" target=_blank>
 <img align="center"  height="50" width="50" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png">
 </a>
+
 <br>
 <br>
+   
 </div>
 <br>
+   
 <br>
 <p align="center" style="color: gold;">
-  <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcassioestevao&s=50&c=bdbd04&bg=000000&no=7&ff=digi&tb=Visits%3A++&ta=">
+  <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcassioestevao&s=50&bg=000000&no=7&ff=digi&tb=Visits%3A++&ta=">
 </p>
 <br>
 
