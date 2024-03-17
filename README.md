@@ -39,7 +39,7 @@
 
 ### Ferramenta:
 ![Python](https://www.python.org/static/img/python-logo.png)
-
+Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minha linguagem principal. Sou apaixonado por programação e estou sempre buscando aprender e aprimorar minhas habilidades. Este repositório é onde compartilho meus projetos e estudos relacionados ao Python e outras tecnologias.
 <br>
 <br> 
 <br>
