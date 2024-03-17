@@ -57,7 +57,7 @@ Em resumo, minha paixão pelo desenvolvimento web está enraizada na vontade de 
 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50">(https://www.linkedin.com/in/cassioestevao)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50" href="https://www.linkedin.com/in/cassioestevao>
 </div>
 <br>
 
