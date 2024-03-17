@@ -55,9 +55,12 @@ Em resumo, minha paixão pelo desenvolvimento web está enraizada na vontade de 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:cassioestevaops@gmail.com)
 <br>
 
+<br>
+<br>
+
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50" href="https://www.linkedin.com/in/cassioestevao>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50">
 </div>
 <br>
 
