@@ -1,15 +1,24 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=Bem+vindos+(a)!+;Aqui+est%C3%A3o+alguns+dos+meus+projetos+e+estudos+desenvolvidos+em+diversas+linguagens.)](https://git.io/typing-svg)
+
 <br>
 <br>
+
 <div align="center">
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cassioestevao&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 </div>
+
 <div align="center"> 
+ 
 <a href="https://instagram.com/cassioestevao" target="_blank">
+ 
 <img align="center" height="80" width="84" src=https://github.com/cassioestevao/cassioestevao/blob/e9792e9330296e2c055931f8b5f7a5c34e27709e/instagram.png>
+
 </a>
+
 <a href="https://www.youtube.com/channel/cassioestevao" target="_blank">
+ 
 <img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3000a2c-f43c-4145-9f8d-3c5b58a5dae0">
+
 </a>
 <a href="mailto:cassioestevaops@gmail.com">
 <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
