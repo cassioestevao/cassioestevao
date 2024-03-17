@@ -54,16 +54,16 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 
 </a>
 
-<a href="https://www.youtube.com/channel/cassioestevao" target="_blank">
+<a href="https://www.facebook.com/cassioestevao" target="_blank">
 
-<img align="center" height="50" width="50" src="https://img.icons8.com/ios-filled/50/000000/youtube.png">
+<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.2/icons/facebook.svg">
 
 </a>
 <a href="mailto:cassioestevaops@gmail.com">
 <img align="center"  height="50" width="50" src="https://img.icons8.com/ios-filled/50/000000/gmail.png">
 </a>
 
-<a  href="https://www.linkedin.com/in/cassioestevao/" target=_blank>
+<a  href="https://www.linkedin.com/in/cassioestevao/" target="_blank">
 <img align="center"  height="50" width="50" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png">
 </a>
 
