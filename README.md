@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cassioestevao&theme=blue&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cassioestevao&theme=dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
  </div>
 
 <div align="center" >
