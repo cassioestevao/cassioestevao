@@ -35,7 +35,7 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 <p align="centre"><b>Visitors Count</b></p> 
   
 <p align="center" style="color: gold;">
-  <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcassioestevao&s=50&c=07f713&bg=000000&no=7&ff=digi&tb=Visits%3A++&ta=">
+  <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcassioestevao&s=50&c=bdbd04&bg=000000&no=7&ff=digi&tb=Visits%3A++&ta=">
 </p>
 <br>
 
