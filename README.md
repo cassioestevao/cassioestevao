@@ -34,8 +34,14 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Logo" width="50"><br>
 </div>
-
 <br> 
+Eu tenho um forte interesse em me aprofundar no desenvolvimento web porque acredito que a web é uma plataforma incrivelmente poderosa para criar soluções inovadoras e impactar positivamente a vida das pessoas. A capacidade de criar aplicativos web interativos e acessíveis a partir de qualquer dispositivo conectado à Internet me fascina.
+
+Além disso, o desenvolvimento web está em constante evolução, o que me proporciona uma oportunidade contínua de aprendizado e crescimento. Aprender novas tecnologias e frameworks me desafia a expandir meu conhecimento e habilidades, e me permite acompanhar as tendências e melhores práticas da indústria.
+
+Eu também me sinto motivado pela possibilidade de criar interfaces intuitivas e visualmente atraentes que proporcionem uma experiência de usuário excepcional. A combinação de design e funcionalidade no desenvolvimento web me inspira a explorar novas ideias e abordagens criativas para resolver problemas complexos.
+
+Em resumo, meu interesse em se aprofundar no desenvolvimento web é impulsionado pela paixão por criar soluções inovadoras, pela vontade de aprender continuamente e pela busca de excelência na experiência do usuário. Acredito que o desenvolvimento web é uma área emocionante e recompensadora, e estou ansioso para explorar todas as suas possibilidades.
 <br>
 <br>
 <br>
