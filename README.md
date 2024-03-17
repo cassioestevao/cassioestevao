@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=30&pause=1000&color=F7F7F7&random=false&width=400&lines=Bem+vindos+(a)!+;Aqui+est%C3%A3o+alguns+dos+meus+projetos+e+estudos+desenvolvidos+em+diversas+linguagens.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=30&pause=1000&color=F7F7F7&random=false&width=400&lines=Bem+vindos+(a)!)](https://git.io/typing-svg)
 
 <br>
 <br>
