@@ -43,7 +43,7 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 
 <a href="https://instagram.com/cassioestevao" target="_blank">
 
-<img align="center" height="80" width="50" src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png">
+<img align="center" height="50" width="50" src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png">
 
 </a>
 
@@ -59,6 +59,8 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 <a  href="https://www.linkedin.com/in/cassioestevao/" target=_blank>
 <img align="center"  height="50" width="50" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png">
 </a>
+<br>
+<br>
 </div>
 <br>
 <br>
