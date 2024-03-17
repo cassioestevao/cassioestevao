@@ -63,27 +63,16 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
 
 </div>
-
-
-<div align="center">
-  
-<br>
-<br>
-<p align="center"</p><b> Visitors Count</b>
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=&s=40&c=dba100&bg=00000000&no=2&ff=digii&tb=&ta=" alt="visits" </p> 
-</p> 
-<br>
-</div>
-
-
 <br>
 <br> 
-
-
-<div style="text-align:center",bg="#02550">
+<div style="text-align:center">
     <img src="https://raw.githubusercontent.com/cassioestevao/cassioestevao/main/code.gif"  alt="Alt Text" width="400" height="300">
 </div>
 
-
+<div align="center">
+<p align="center"</p><b> Visitors Count</b>
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=&s=40&c=dba100&bg=00000000&no=2&ff=digii&tb=&ta=" alt="visits" 
+<br>
+</div>
 
 
