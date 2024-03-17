@@ -37,7 +37,7 @@
 </div>
 
 
-### Main skills:
+### Ferramenta:
 <div align="left"> 
 <img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
 </div>
@@ -72,8 +72,9 @@
 <br>
 <p
 <p align="center"><b>Visitors Count</b> </p> 
-  
+<p
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=&s=40&c=dba100&bg=00000000&no=2&ff=digii&tb=&ta=" alt="visits" </p> 
+</p> 
 <br>
 </div>
 
