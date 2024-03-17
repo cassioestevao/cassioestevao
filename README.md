@@ -15,8 +15,7 @@
 
 </div>
 <br>
-<br>
-<br>
+
 ### Ferramenta Principal:
 ![Python](https://www.python.org/static/img/python-logo.png)
 
