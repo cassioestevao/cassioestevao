@@ -49,3 +49,5 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 <br> 
 <h2 align="left"> Interesses: </h2>
 <br> 
+![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
+
