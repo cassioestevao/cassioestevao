@@ -49,7 +49,7 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 
 <a href="https://instagram.com/cassioestevao" target="_blank">
 
-<img align="center" height="80" width="80" src=https://github.com/cassioestevao/cassioestevao/blob/e9792e9330296e2c055931f8b5f7a5c34e27709e/instagram.png>
+<img align="center" height="80" width="80" src=https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png>
 
 </a>
 
@@ -59,11 +59,11 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 
 </a>
 <a href="mailto:cassioestevaops@gmail.com">
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
+<img align="center"  height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.png">
 </a>
 
 <a  href="https://www.linkedin.com/in/cassioestevao/" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
+<img align="center"  height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
 </a>
 </div>
 
