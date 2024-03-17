@@ -60,7 +60,7 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 
 </a>
 <a href="mailto:cassioestevaops@gmail.com">
-<img align="center"  height="50" width="50" src="https://giphy.com/embed/du3J3cXyzhj75IOgvA"">
+<img align="center"  height="50" width="50" src="https://giphy.com/embed/du3J3cXyzhj75IOgvA">
 </a>
 
 <a  href="https://www.linkedin.com/in/cassioestevao/" target="_blank">
