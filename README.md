@@ -38,32 +38,32 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 <br> 
 <br>
 
-<h3 align="lerf"><b>Visitas ao perfil :</b></h3> 
-<br>
-<p align="center" style="color: gold;">
-  <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcassioestevao&s=50&c=bdbd04&bg=000000&no=7&ff=digi&tb=Visits%3A++&ta=">
-</p>
-<br>
 
 <div align="center"> 
 
 <a href="https://instagram.com/cassioestevao" target="_blank">
 
-<img align="center" height="80" width="80" src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png">
+<img align="center" height="80" width="50" src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png">
 
 </a>
 
 <a href="https://www.youtube.com/channel/cassioestevao" target="_blank">
 
-<img align="center" height="80" width="80" src="https://img.icons8.com/ios-filled/50/000000/youtube.png">
+<img align="center" height="50" width="50" src="https://img.icons8.com/ios-filled/50/000000/youtube.png">
 
 </a>
 <a href="mailto:cassioestevaops@gmail.com">
-<img align="center"  height="80" width="80" src="https://img.icons8.com/ios-filled/50/000000/gmail.png">
+<img align="center"  height="50" width="50" src="https://img.icons8.com/ios-filled/50/000000/gmail.png">
 </a>
 
 <a  href="https://www.linkedin.com/in/cassioestevao/" target=_blank>
-<img align="center"  height="80" width="80" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png">
+<img align="center"  height="50" width="50" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png">
 </a>
 </div>
+<br>
+<br>
+<p align="center" style="color: gold;">
+  <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcassioestevao&s=50&c=bdbd04&bg=000000&no=7&ff=digi&tb=Visits%3A++&ta=">
+</p>
+<br>
 
