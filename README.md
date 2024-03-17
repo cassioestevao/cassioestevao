@@ -29,12 +29,14 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 <br> 
 <h2 align="left"> Interesses: </h2>
 <br>
-<div align="center" >
-   ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
-   <br>
-   ![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-   <br>
-   ![PHP Logo](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
+<!-- Logo do JavaScript -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Logo" width="100">
+
+<!-- Logo do React -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="100">
+
+<!-- Logo do PHP -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Logo" width="100">
 
 <br> 
 <br>
