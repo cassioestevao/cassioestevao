@@ -50,13 +50,13 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 
 <a href="https://instagram.com/cassioestevao" target="_blank">
 
-<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.2/icons/instagram.svg">
+<img align="center" height="50" width="50" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 
 </a>
 
 <a href="https://www.facebook.com/cassioestevao" target="_blank">
 
-<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@5.10.2/icons/facebook.svg">
+<img align="center" height="50" width="50" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 
 </a>
 <a href="mailto:cassioestevaops@gmail.com">
