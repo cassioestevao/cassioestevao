@@ -8,12 +8,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=cassioestevao&theme=javascript-dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=700)](https://git.io/streak-stats)
 
 </div>
-<br>
-
 
 <div align="center" >
    
-   ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/cassioestevao?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0&animation_amplitude=70&animation_frequency=0.5&animation_wave_center=1_0&format=svg&weeks=30&theme=yellow)
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/cassioestevao?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0&animation_amplitude=70&animation_frequency=0.5&animation_wave_center=1_0&format=svg&weeks=30&theme=yellow)
 
 
 </div>
