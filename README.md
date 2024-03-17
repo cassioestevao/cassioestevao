@@ -56,16 +56,17 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 <img align="right"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c"> <br>
 <img align="right"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc"> <br>
 <img align="right"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc"> <br>
-<img align="right"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
-<br> 
+<img align="right"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6"> <br> 
+
 </div>
 <br>
 <br> 
+
 <div style="text-align:center">
-  <br>
 <img src="https://raw.githubusercontent.com/cassioestevao/cassioestevao/main/code.gif"  alt="Alt Text" width="400" height="300">
 </div>
 
+<br>
 <div align="center">
 <p align="center"</p><b> Visitors Count</b>
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=&s=40&c=dba100&bg=00000000&no=2&ff=digii&tb=&ta=" alt="visits" 
