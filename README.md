@@ -1,6 +1,5 @@
-<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=30&pause=1000&color=F7F7F7&random=false&width=400&lines=Bem+vindos+!)](https://git.io/typing-svg)
-</div>
+
 <br>
 <br>
 
