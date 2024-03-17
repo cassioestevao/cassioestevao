@@ -49,13 +49,13 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 
 <a href="https://instagram.com/cassioestevao" target="_blank">
 
-<img align="center" height="80" width="80" src=https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png>
+<img align="center" height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png">
 
 </a>
 
 <a href="https://www.youtube.com/channel/cassioestevao" target="_blank">
 
-<img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3000a2c-f43c-4145-9f8d-3c5b58a5dae0">
+<img align="center" height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg">
 
 </a>
 <a href="mailto:cassioestevaops@gmail.com">
