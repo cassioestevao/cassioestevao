@@ -5,12 +5,12 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cassioestevao&theme=dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cassioestevao&theme=blue&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
  </div>
 
 <div align="center" >
    
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/cassioestevao?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0&animation_amplitude=30&animation_frequency=0.75&animation_wave_center=10_0&format=svg&weeks=30&theme=yellow)
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/cassioestevao?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0&animation_amplitude=30&animation_frequency=0.75&animation_wave_center=10_0&format=svg&weeks=30&theme=blue)
 
 
 </div>
