@@ -74,7 +74,7 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 </div>
 
 <p align="center" style="color: gold;">
-  <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcassioestevao&s=15&c=ffff00&bg=0000ff&no=7&ff=digi&tb=Visitas%3A++&ta=">
+  <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcassioestevao&s=15&c=ffff00&bg=428fd6&no=7&ff=digi&tb=Visitas%3A++&ta=">
 </p>
 <br>
 
