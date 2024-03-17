@@ -66,8 +66,4 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 <img align="center"  height="80" width="80" src="https://image.flaticon.com/icons/png/512/174/174857.png">
 </a>
 </div>
-<a href="https://www.instagram.com/seu_perfil/"><img src="https://image.flaticon.com/icons/png/512/1384/1384063.png" alt="Instagram" width="50"></a>
-<a href="mailto:seu_email@example.com"><img src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="Email" width="50"></a>
-<a href="https://www.linkedin.com/in/seu_perfil/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="50"></a>
-<a href="https://www.youtube.com/seu_canal/"><img src="https://image.flaticon.com/icons/png/512/1384/1384060.png" alt="YouTube" width="50"></a>
 
