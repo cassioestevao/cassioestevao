@@ -52,11 +52,15 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 <h2 align="left"> Interesses: </h2>
 <br> 
 
-<div align="right"> 
-<img align="right"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c"> <br>
-<img align="right"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc"> <br>
-<img align="right"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc"> <br>
-<img align="right"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6"> <br> 
+<p align="right">
+  <img height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
+  <br>
+  <img height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
+  <br>
+  <img height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
+  <br>
+  <img height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
+</p>
 
 </div>
 <br>
@@ -68,7 +72,7 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 
 <br>
 <div align="center">
-<p align="center"</p><b> Visitors Count</b>
+<p align="center"</p><b> Visitas ao meu perfil</b>
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=&s=40&c=dba100&bg=00000000&no=2&ff=digii&tb=&ta=" alt="visits" 
 <br>
 </div>
