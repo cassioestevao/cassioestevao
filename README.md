@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=Bem+vindos+(a)!+;Aqui+est%C3%A3o+alguns+dos+meus+projetos+e+estudos+desenvolvidos+em+diversas+linguagens.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=30&pause=1000&color=F7F7F7&random=false&width=400&lines=Bem+vindos+(a)!+;Aqui+est%C3%A3o+alguns+dos+meus+projetos+e+estudos+desenvolvidos+em+diversas+linguagens.)](https://git.io/typing-svg)
 
 <br>
 <br>
@@ -60,7 +60,7 @@ Em resumo, meu interesse em se aprofundar no desenvolvimento web é impulsionado
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:cassioestevaops@gmail.com)
 <br>
 <p align="center" style="color: gold;">
-  <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcassioestevao&s=15&c=db006a&bg=428fd6&no=7&ff=digi&tb=Visitas%3A++&ta=">
+  <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcassioestevao&s=15&c=db006a&bg=F7F7F7&no=7&ff=digi&tb=Visitas%3A++&ta=">
 </p>
 <br>
 
