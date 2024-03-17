@@ -5,8 +5,9 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=cassioestevao&theme=javascript-dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
- </div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=cassioestevao&theme=javascript-dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=700)](https://git.io/streak-stats)
+
+</div>
 
 <div align="center" >
    
