@@ -54,7 +54,9 @@ Em resumo, minha paixão pelo desenvolvimento web está enraizada na vontade de 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/cassioestevao)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:cassioestevaops@gmail.com)
 <br>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="100">
+</div>
 <br>
 <p align="center" style="color: gold; background-color: transparent;">
   <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fvisit-counter.vercel.app%2F&s=26&c=00ff00&bg=00000000&no=4&ff=digi&tb=Acesso+%3A&ta=" alt="visits">
