@@ -50,16 +50,19 @@ Em resumo, minha paixão pelo desenvolvimento web está enraizada na vontade de 
 <div align="center"> 
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/cassioestevao)
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/+5527998062898)
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">]C
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/cassioestevao)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:cassioestevaops@gmail.com)
 <br>
+
+
 <div align="center">
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50">](https://github.com/cassioestevao?tab=repositories)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50">(https://www.linkedin.com/in/cassioestevao)
 </div>
 <br>
+
 <p align="center" style="color: gold; background-color: transparent;">
   <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fvisit-counter.vercel.app%2F&s=26&c=00ff00&bg=00000000&no=4&ff=digi&tb=Acesso+%3A&ta=" alt="visits">
 </p>
 
-https://github.com/cassioestevao?tab=repositories
+
