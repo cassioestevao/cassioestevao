@@ -69,9 +69,7 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
   
 <br>
 <br>
-<p
-<p align="center"</p><b> Visitors Count</b></p> 
-<p
+<p align="center"</p><b> Visitors Count</b>
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=&s=40&c=dba100&bg=00000000&no=2&ff=digii&tb=&ta=" alt="visits" </p> 
 </p> 
 <br>
