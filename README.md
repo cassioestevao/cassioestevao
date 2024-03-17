@@ -32,7 +32,7 @@
 
 <div align="center" >
    
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/cassioestevao?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=black) 
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/cassioestevao?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=40&animation_frequency=0.75&animation_wave_center=10_0&format=svg&weeks=30&theme=dark) 
 
 </div>
 
@@ -48,6 +48,7 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 <br>
 <br> 
 <h2 align="left"> Interesses: </h2>
+<br> 
 <br> 
 ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
 
