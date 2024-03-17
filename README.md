@@ -11,7 +11,7 @@
 
 <div align="center"> 
 <a href="https://instagram.com/cassioestevao" target="_blank">
-<img align="center" height="84" width="84" src=https://github.com/cassioestevao/cassioestevao/blob/e9792e9330296e2c055931f8b5f7a5c34e27709e/instagram.png>
+<img align="center" height="80" width="84" src=https://github.com/cassioestevao/cassioestevao/blob/e9792e9330296e2c055931f8b5f7a5c34e27709e/instagram.png>
 </a>
 
 <a href="https://www.youtube.com/channel/cassioestevao" target="_blank">
@@ -39,7 +39,7 @@
 
 ### Main skills:
 <div align="left"> 
-![Python](https://www.python.org/static/img/python-logo.png)
+<img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
 </div>
 
 <br>
@@ -71,7 +71,7 @@
 <br>
 <br>
 
-<p align="centre"><b>Visitors Count</b></p> 
+<p align="center"><b>Visitors Count</b></p> 
   
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=&s=40&c=dba100&bg=00000000&no=2&ff=digii&tb=&ta=" alt="visits" </p> 
 <br>
@@ -89,12 +89,9 @@
 <br> 
 
 
-<div style="text-align:center;">
+<div style="text-align:center">
     <img src="https://raw.githubusercontent.com/cassioestevao/cassioestevao/main/code.gif"  alt="Alt Text" width="400" height="300">
 </div>
-
-
-
 
 
 
