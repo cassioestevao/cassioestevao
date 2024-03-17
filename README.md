@@ -15,7 +15,7 @@
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/cassioestevao?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=40&animation_frequency=0.75&animation_wave_center=10_0&format=svg&weeks=30&theme=yellow) 
 
 </div>
-<br>
+
 ### Ferramenta Principal:
 ![Python](https://www.python.org/static/img/python-logo.png)
 
