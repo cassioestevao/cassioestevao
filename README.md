@@ -59,9 +59,7 @@ Em resumo, minha paixão pelo desenvolvimento web está enraizada na vontade de 
 <br>
 
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50">
-</div>
+
 <br>
 
 <p align="center" style="color: gold; background-color: transparent;">
