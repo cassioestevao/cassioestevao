@@ -16,7 +16,7 @@
 </div>
 <br>
 
-### Ferramenta Principal:
+### Linguagem mais usada:
 ![Python](https://www.python.org/static/img/python-logo.png)
 
 <br>
