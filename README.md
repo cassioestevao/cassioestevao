@@ -34,6 +34,8 @@ Olá! Meu nome é Cássio Estevão e atualmente estou estudando Python como minh
 <img src="https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt">
 <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/-DB%20Browser-00A04E?style=flat-square&logo=dbbrowser&logoColor=white" alt="DB Browser">
+<img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
 
 
    
