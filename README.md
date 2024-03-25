@@ -7,6 +7,11 @@
 </div>
 
 <br>
+<p align="center" style="color: gold; background-color: transparent;">
+  <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fvisit-counter.vercel.app%2F&s=26&c=00ff00&bg=00000000&no=4&ff=digi&tb=Acesso+%3A&ta=" alt="visits">
+</p>
+
+
 
 <div align="center" >
 
@@ -69,9 +74,5 @@
 
 
 <br>
-
-<p align="center" style="color: gold; background-color: transparent;">
-  <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fvisit-counter.vercel.app%2F&s=26&c=00ff00&bg=00000000&no=4&ff=digi&tb=Acesso+%3A&ta=" alt="visits">
-</p>
 
 
