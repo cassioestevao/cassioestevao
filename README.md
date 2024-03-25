@@ -43,7 +43,7 @@ Sou apaixonado por Python, minha linguagem principal. Atuo como um verdadeiro ar
 <br> 
 <br> 
 <br> 
-Em resumo, minha paixão pelo desenvolvimento web está enraizada na vontade de criar soluções inovadoras, na busca constante por aprendizado e na busca da excelência na experiência do usuário. Estou animado para explorar todo o potencial criativo e técnico que o desenvolvimento web tem a oferecer.<br>
+Em resumo, minha paixão pela programação está enraizada na vontade de criar soluções inovadoras, na busca constante pelo aprendizado e na busca da excelência na experiência do usuário. Assim como minha afinidade com Python, estou entusiasmado para explorar todo o potencial criativo e técnico que o programação tem a oferecer, sempre buscando superar expectativas e entregar produtos que encantem e inspirem..<br>
 <br>
 <br>
 <br> 
