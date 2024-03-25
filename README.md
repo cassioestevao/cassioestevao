@@ -54,7 +54,7 @@ _Sou apaixonado por Python, minha linguagem principal. Atuo como um verdadeiro a
 <br> 
 <br> 
 
-_Em resumo, minha paixão pela programação está enraizada na vontade de criar soluções inovadoras, na busca constante pelo aprendizado e na busca da excelência na experiência do usuário. Assim como minha afinidade com Python, estou entusiasmado para explorar todo o potencial criativo e técnico que o programação tem a oferecer, sempre buscando superar expectativas e entregar produtos que encantem e inspirem.._
+Em resumo, minha paixão pela programação está enraizada na vontade de criar soluções inovadoras, na busca constante pelo aprendizado e na busca da excelência na experiência do usuário. Assim como minha afinidade com Python, estou entusiasmado para explorar todo o potencial criativo e técnico que o programação tem a oferecer, sempre buscando superar expectativas e entregar produtos que encantem e inspirem.._
 
 <br>
 <br>
