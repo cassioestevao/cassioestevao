@@ -26,17 +26,17 @@
 
 <br>
 
-***Sou apaixonado por Python, minha linguagem principal. Atuo como um verdadeiro artista digital, criando sistemas complexos e interfaces deslumbrantes. Sou versátil, atuando tanto nos bastidores (backend) quanto na linha de frente (frontend), sempre buscando a combinação perfeita entre funcionalidade e beleza. Vamos juntos criar algo incrível?***
+_Sou apaixonado por Python, minha linguagem principal. Atuo como um verdadeiro artista digital, criando sistemas complexos e interfaces deslumbrantes. Sou versátil, atuando tanto nos bastidores (backend) quanto na linha de frente (frontend), sempre buscando a combinação perfeita entre funcionalidade e beleza. Vamos juntos criar algo incrível?_
 
 </a>
 <br>
 <br> 
-<br>zz
+<br>
 <br>
 <br>
 <br> 
 
-<h2 ***Ferramentas***</h2>
+<h2 ***Ferramentas*** </h2>
 
 <br>
 <div style="font-family: 'Times New Roman', Times, serif;">
@@ -54,7 +54,7 @@
 <br> 
 <br> 
 
-***Em resumo, minha paixão pela programação está enraizada na vontade de criar soluções inovadoras, na busca constante pelo aprendizado e na busca da excelência na experiência do usuário. Assim como minha afinidade com Python, estou entusiasmado para explorar todo o potencial criativo e técnico que o programação tem a oferecer, sempre buscando superar expectativas e entregar produtos que encantem e inspirem..***
+_Em resumo, minha paixão pela programação está enraizada na vontade de criar soluções inovadoras, na busca constante pelo aprendizado e na busca da excelência na experiência do usuário. Assim como minha afinidade com Python, estou entusiasmado para explorar todo o potencial criativo e técnico que o programação tem a oferecer, sempre buscando superar expectativas e entregar produtos que encantem e inspirem.._
 
 <br>
 <br>
