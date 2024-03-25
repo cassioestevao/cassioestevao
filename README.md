@@ -20,7 +20,7 @@
 ![Python](https://www.python.org/static/img/python-logo.png)
 
 <br>
-'#000000' Sou apaixonado por Python, minha linguagem principal. Atuo como um verdadeiro artista digital, criando sistemas complexos e interfaces deslumbrantes. Sou versátil, atuando tanto nos bastidores (backend) quanto na linha de frente (frontend), sempre buscando a combinação perfeita entre funcionalidade e beleza. Vamos juntos criar algo incrível?</a>
+'#000000' Sou apaixonado por Python, minha linguagem principal. Atuo como um verdadeiro artista digital, criando sistemas complexos e interfaces deslumbrantes. Sou versátil, atuando tanto nos bastidores (backend) quanto na linha de frente (frontend), sempre buscando a combinação perfeita entre funcionalidade e beleza. Vamos juntos criar algo incrível?'#000000'</a>
 <br>
 <br> 
 <br>
