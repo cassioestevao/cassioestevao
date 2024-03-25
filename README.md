@@ -16,7 +16,7 @@
 </div>
 <br>
 
-### ⚙️ Back-end e Front-end ? (Full Stack).
+### ⚙️ Back-end ou Front-end ?
 ![Python](https://www.python.org/static/img/python-logo.png)
 
 <br>
