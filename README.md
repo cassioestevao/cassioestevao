@@ -21,7 +21,7 @@
 </div>
 <br>
 
-### ⚙️ Back-end ou Front-end ?
+### ***⚙️ Back-end ou Front-end ?***
 ![Python](https://www.python.org/static/img/python-logo.png)
 
 <br>
@@ -31,11 +31,13 @@
 </a>
 <br>
 <br> 
-<br>
+<br>zz
 <br>
 <br>
 <br> 
-<h2 align="left">⚙️ Ferramentas </h2>
+
+<h2 ***Ferramentas***</h2>
+
 <br>
 <div style="font-family: 'Times New Roman', Times, serif;">
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -52,7 +54,7 @@
 <br> 
 <br> 
 
-<span style="font-family: 'Times New Roman', Times, serif;">Em resumo, minha paixão pela programação está enraizada na vontade de criar soluções inovadoras, na busca constante pelo aprendizado e na busca da excelência na experiência do usuário. Assim como minha afinidade com Python, estou entusiasmado para explorar todo o potencial criativo e técnico que o programação tem a oferecer, sempre buscando superar expectativas e entregar produtos que encantem e inspirem..</span>
+***Em resumo, minha paixão pela programação está enraizada na vontade de criar soluções inovadoras, na busca constante pelo aprendizado e na busca da excelência na experiência do usuário. Assim como minha afinidade com Python, estou entusiasmado para explorar todo o potencial criativo e técnico que o programação tem a oferecer, sempre buscando superar expectativas e entregar produtos que encantem e inspirem..***
 
 <br>
 <br>
