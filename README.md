@@ -25,7 +25,9 @@
 ![Python](https://www.python.org/static/img/python-logo.png)
 
 <br>
-<span style="font-family: 'Roboto', sans-serif;">Sou apaixonado por Python, minha linguagem principal. Atuo como um verdadeiro artista digital, criando sistemas complexos e interfaces deslumbrantes. Sou versátil, atuando tanto nos bastidores (backend) quanto na linha de frente (frontend), sempre buscando a combinação perfeita entre funcionalidade e beleza. Vamos juntos criar algo incrível?</span>
+
+***Sou apaixonado por Python, minha linguagem principal. Atuo como um verdadeiro artista digital, criando sistemas complexos e interfaces deslumbrantes. Sou versátil, atuando tanto nos bastidores (backend) quanto na linha de frente (frontend), sempre buscando a combinação perfeita entre funcionalidade e beleza. Vamos juntos criar algo incrível?***
+
 </a>
 <br>
 <br> 
@@ -49,7 +51,9 @@
 <br> 
 <br> 
 <br> 
+
 <span style="font-family: 'Times New Roman', Times, serif;">Em resumo, minha paixão pela programação está enraizada na vontade de criar soluções inovadoras, na busca constante pelo aprendizado e na busca da excelência na experiência do usuário. Assim como minha afinidade com Python, estou entusiasmado para explorar todo o potencial criativo e técnico que o programação tem a oferecer, sempre buscando superar expectativas e entregar produtos que encantem e inspirem..</span>
+
 <br>
 <br>
 <br>
