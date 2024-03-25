@@ -27,7 +27,7 @@ Sou apaixonado por Python, minha linguagem principal. Atuo como um verdadeiro ar
 <br>
 <br>
 <br> 
-<h2 align="left">⚙️ Ferramentas. </h2>
+<h2 align="left">⚙️ Ferramentas </h2>
 <br>
 <div style="display: flex; justify-content: center;">
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
