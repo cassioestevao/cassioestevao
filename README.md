@@ -36,7 +36,7 @@ _Sou apaixonado por Python, minha linguagem principal. Atuo como um verdadeiro a
 <br>
 <br> 
 
-<h2 ⚙️***Ferramentas*** </h2>
+<h2 ***⚙️ Ferramentas*** </h2>
 
 <br>
 <div style="font-family: 'Times New Roman', Times, serif;">
