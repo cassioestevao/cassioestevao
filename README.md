@@ -30,7 +30,7 @@
 <br> 
 <h2 align="left">⚙️ Ferramentas </h2>
 <br>
-<div style="display: flex; justify-content: center;">
+<div style="font-family: 'Times New Roman', Times, serif;">
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt">
 <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
@@ -44,8 +44,7 @@
 <br> 
 <br> 
 <br> 
-******
-<span style="font-family: 'Roboto', sans-serif;">Em resumo, minha paixão pela programação está enraizada na vontade de criar soluções inovadoras, na busca constante pelo aprendizado e na busca da excelência na experiência do usuário. Assim como minha afinidade com Python, estou entusiasmado para explorar todo o potencial criativo e técnico que o programação tem a oferecer, sempre buscando superar expectativas e entregar produtos que encantem e inspirem..</span>
+<span style="font-family: 'Times New Roman', Times, serif;">Em resumo, minha paixão pela programação está enraizada na vontade de criar soluções inovadoras, na busca constante pelo aprendizado e na busca da excelência na experiência do usuário. Assim como minha afinidade com Python, estou entusiasmado para explorar todo o potencial criativo e técnico que o programação tem a oferecer, sempre buscando superar expectativas e entregar produtos que encantem e inspirem..</span>
 <br>
 <br>
 <br>
