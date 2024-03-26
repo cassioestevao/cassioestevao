@@ -21,7 +21,7 @@
 </div>
 <br>
 
-### ***⚙️ Back-end ou Front-end ?***
+# ***⚙️ Back-end ou Front-end ?***
 ![Python](https://www.python.org/static/img/python-logo.png)
 
 <br>
@@ -36,7 +36,7 @@ _Sou apaixonado por Python, minha linguagem principal. Atuo como um verdadeiro a
 <br>
 <br> 
 
-<h2 ***⚙️ Ferramentas***</h2>
+## ***⚙️ Ferramentas***
 
 <br>
   
@@ -51,12 +51,13 @@ _Sou apaixonado por Python, minha linguagem principal. Atuo como um verdadeiro a
 
    
 </div>
+
 <br> 
 <br> 
 <br> 
 
 
-_Em resumo, minha paixão pela programação está enraizada na vontade de criar soluções inovadoras, na busca constante pelo aprendizado e na busca da excelência na experiência do usuário. Assim como minha afinidade com Python, estou entusiasmado para explorar todo o potencial criativo e técnico que o programação tem a oferecer
+Em resumo, minha paixão pela programação está enraizada na vontade de criar soluções inovadoras, na busca constante pelo aprendizado e na busca da excelência na experiência do usuário. Assim como minha afinidade com Python, estou entusiasmado para explorar todo o potencial criativo e técnico que o programação tem a oferecer
 
 
 <br>
