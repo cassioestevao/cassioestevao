@@ -36,9 +36,10 @@ _Sou apaixonado por Python, minha linguagem principal. Atuo como um verdadeiro a
 <br>
 <br> 
 
-<h2 ***⚙️ Ferramentas*** </h2>
+<h2 ***⚙️ Ferramentas***</h2>
 
 <br>
+  
 <div style="font-family: 'Times New Roman', Times, serif;">
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt">
@@ -55,7 +56,7 @@ _Sou apaixonado por Python, minha linguagem principal. Atuo como um verdadeiro a
 <br> 
 
 
-_Em resumo, minha paixão pela programação está enraizada na vontade de criar soluções inovadoras, na busca constante pelo aprendizado e na busca da excelência na experiência do usuário. Assim como minha afinidade com Python, estou entusiasmado para explorar todo o potencial criativo e técnico que o programação tem a oferecer_
+_Em resumo, minha paixão pela programação está enraizada na vontade de criar soluções inovadoras, na busca constante pelo aprendizado e na busca da excelência na experiência do usuário. Assim como minha afinidade com Python, estou entusiasmado para explorar todo o potencial criativo e técnico que o programação tem a oferecer
 
 
 <br>
