@@ -21,9 +21,7 @@
 </div>
 <br>
 
-# ***⚙️ Back-end ou Front-end ?***
-![Python](https://www.python.org/static/img/python-logo.png)
-<br>
+
 </a>
 <br>
 <br> 
@@ -32,7 +30,7 @@
 <br>
 <br> 
 
-## ***⚙️ Ferramentas***
+# ***⚙️ Ferramentas***
 
 <br>
   
